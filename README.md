@@ -33,6 +33,7 @@ The business problem was formulated as follows:
 ## Data 
 
 `p1-customers.xlsx` - information on about 2,300 customers 
+
 `p1-mailinglist.xlsx` - data on 250 customers that you need to predict sales
 
 
@@ -43,7 +44,7 @@ You can find the results of the analysis in either html form or complete Jupyter
 * [Predicting_Catalog_Demand.html](https://github.com/k-bosko/predicting_catalog_demand/blob/master/Predicting_Catalog_Demand.html)
 * [Predicting_Catalog_Demand.ipynb](https://github.com/k-bosko/predicting_catalog_demand/blob/master/Predicting_Catalog_Demand.ipynb)
 
-Alterinatively, run one the following commands in a terminal after navigating to the top-level project directory `predicting_creditworthiness/` (that contains this README):
+Alterinatively, run one the following commands in a terminal after navigating to the top-level project directory `predicting_catalog_demand/` (that contains this README):
 
 ```bash
 ipython notebook Predicting_Catalog_Demand.ipynb
